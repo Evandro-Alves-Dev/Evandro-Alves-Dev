@@ -17,6 +17,8 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Evandro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alte="Evandro-kotlin" height="30" width="40" src="https://github.com/Evandro-Alves-Dev/Evandro-Alves-Dev/assets/70543731/dae65644-9f81-4524-93ed-e6218cd4020f
+">
   <img align="center" alt="Evandro-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Evandro-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Evandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,7 +31,6 @@
   <img align="center" alt="Evan-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg">   
   <img align="center" alt="Evandro-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
   <img align="center" alt="Evandro-Confluence" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"> 
-  <img align="center" alte="Evandro-kotlin" height="30" width="40" src= https://github.com/Evandro-Alves-Dev/Evandro-Alves-Dev/assets/70543731/65d9fe61-d354-4de4-92df-749ed8401dbe>
 </div>
   
   ##
