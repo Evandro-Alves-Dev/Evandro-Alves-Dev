@@ -1,7 +1,7 @@
 ### Olá, eu sou o Evandro Alves
 
 - 🔭 Trabalho com desenvolvimento Back-end
-- 🌱 Estou aprimorando meu conhecimento em Java
+- 🌱 Estou aprimorando meu conhecimento em Java, Kotlin, HTML CSS e Node
 - 🤓 Sempre estudando e evoluindo como programador
 - 🚧 Carreira em constante construção 🚧
 
